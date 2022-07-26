@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Plbo7bWuAzHKgQ9LZsevop6qwzh52ea23jhfh+t1tqYtNKCHIF7rXP6cJ2loYgSFrrEZba9h1XrCWVzJsd1KyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SSD\\Documents\\VS_Projects\\Banco Master\\RestApiBetterRoute\\RestApiBetterRoute.Application\\RestApiBetterRoute.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SSD\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\SSD\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\SSD\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\SSD\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\SSD\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\SSD\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\SSD\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

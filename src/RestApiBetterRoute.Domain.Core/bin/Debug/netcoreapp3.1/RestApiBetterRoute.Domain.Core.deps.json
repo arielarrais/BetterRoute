@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RestApiBetterRoute.Domain.Core/1.0.0": {
+        "dependencies": {
+          "RestApiBetterRoute.Domain": "1.0.0"
+        },
+        "runtime": {
+          "RestApiBetterRoute.Domain.Core.dll": {}
+        }
+      },
+      "RestApiBetterRoute.Domain/1.0.0": {
+        "runtime": {
+          "RestApiBetterRoute.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RestApiBetterRoute.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RestApiBetterRoute.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

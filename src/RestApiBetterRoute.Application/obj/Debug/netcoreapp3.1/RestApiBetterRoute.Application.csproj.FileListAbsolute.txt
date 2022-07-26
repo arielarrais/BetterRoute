@@ -1,0 +1,15 @@
+C:\Users\SSD\Documents\VS_Projects\Banco Master\RestApiBetterRoute\RestApiBetterRoute.Application\bin\Debug\netcoreapp3.1\RestApiBetterRoute.Application.deps.json
+C:\Users\SSD\Documents\VS_Projects\Banco Master\RestApiBetterRoute\RestApiBetterRoute.Application\bin\Debug\netcoreapp3.1\RestApiBetterRoute.Application.dll
+C:\Users\SSD\Documents\VS_Projects\Banco Master\RestApiBetterRoute\RestApiBetterRoute.Application\bin\Debug\netcoreapp3.1\RestApiBetterRoute.Application.pdb
+C:\Users\SSD\Documents\VS_Projects\Banco Master\RestApiBetterRoute\RestApiBetterRoute.Application\obj\Debug\netcoreapp3.1\RestApiBetterRoute.Application.csproj.AssemblyReference.cache
+C:\Users\SSD\Documents\VS_Projects\Banco Master\RestApiBetterRoute\RestApiBetterRoute.Application\obj\Debug\netcoreapp3.1\RestApiBetterRoute.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSD\Documents\VS_Projects\Banco Master\RestApiBetterRoute\RestApiBetterRoute.Application\obj\Debug\netcoreapp3.1\RestApiBetterRoute.Application.AssemblyInfoInputs.cache
+C:\Users\SSD\Documents\VS_Projects\Banco Master\RestApiBetterRoute\RestApiBetterRoute.Application\obj\Debug\netcoreapp3.1\RestApiBetterRoute.Application.AssemblyInfo.cs
+C:\Users\SSD\Documents\VS_Projects\Banco Master\RestApiBetterRoute\RestApiBetterRoute.Application\obj\Debug\netcoreapp3.1\RestApiBetterRoute.Application.csproj.CoreCompileInputs.cache
+C:\Users\SSD\Documents\VS_Projects\Banco Master\RestApiBetterRoute\RestApiBetterRoute.Application\obj\Debug\netcoreapp3.1\RestApiBetterRoute.Application.dll
+C:\Users\SSD\Documents\VS_Projects\Banco Master\RestApiBetterRoute\RestApiBetterRoute.Application\obj\Debug\netcoreapp3.1\RestApiBetterRoute.Application.pdb
+C:\Users\SSD\Documents\VS_Projects\Banco Master\RestApiBetterRoute\RestApiBetterRoute.Application\bin\Debug\netcoreapp3.1\RestApiBetterRoute.Domain.Core.dll
+C:\Users\SSD\Documents\VS_Projects\Banco Master\RestApiBetterRoute\RestApiBetterRoute.Application\bin\Debug\netcoreapp3.1\RestApiBetterRoute.Domain.dll
+C:\Users\SSD\Documents\VS_Projects\Banco Master\RestApiBetterRoute\RestApiBetterRoute.Application\bin\Debug\netcoreapp3.1\RestApiBetterRoute.Domain.Core.pdb
+C:\Users\SSD\Documents\VS_Projects\Banco Master\RestApiBetterRoute\RestApiBetterRoute.Application\bin\Debug\netcoreapp3.1\RestApiBetterRoute.Domain.pdb
+C:\Users\SSD\Documents\VS_Projects\Banco Master\RestApiBetterRoute\RestApiBetterRoute.Application\obj\Debug\netcoreapp3.1\RestApiBetterRoute.Application.csproj.CopyComplete

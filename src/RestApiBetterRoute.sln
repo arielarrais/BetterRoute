@@ -1,0 +1,80 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Service", "1 - Service", "{EE57727A-83BF-4DCD-B8AB-DB71BC99969B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Application", "2 - Application", "{CF136C0F-4424-4DA0-AB43-334555874822}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Domain", "3 - Domain", "{527C588A-8C35-4A6B-AF8B-111EB51302F1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Infrastructure", "4 - Infrastructure", "{750E20CF-1FA0-4B35-8889-14E960B9BA13}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestApiBetterRoute.API", "RestApiBetterRoute.API\RestApiBetterRoute.API.csproj", "{3CD22C08-D744-4982-9868-1C090CA954E8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestApiBetterRoute.Application", "RestApiBetterRoute.Application\RestApiBetterRoute.Application.csproj", "{59055FB8-E4C7-44C4-A559-0C467F1EAD64}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestApiBetterRoute.Domain", "RestApiBetterRoute.Domain\RestApiBetterRoute.Domain.csproj", "{061E12BA-A346-401D-96B3-278B8E5BB173}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestApiBetterRoute.Domain.Core", "RestApiBetterRoute.Domain.Core\RestApiBetterRoute.Domain.Core.csproj", "{65AA6EED-7031-4815-90D9-CE4046A302B7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestApiBetterRoute.Domain.Services", "RestApiBetterRoute.Domain.Services\RestApiBetterRoute.Domain.Services.csproj", "{6F251E7E-4779-4682-B638-4E673DF5823D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestApiBetterRoute.Infrastructure", "RestApiBetterRoute.Infrastructure\RestApiBetterRoute.Infrastructure.csproj", "{ADD684E5-F29F-4658-BAC8-6334DE94516A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - Tests", "5 - Tests", "{265DEE49-1F16-4CD4-A75F-36FFDE2619B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestApiBetterRoute.Tests", "RestApiBetterRoute.Tests\RestApiBetterRoute.Tests.csproj", "{2CF562B0-DA9F-43B1-8BA6-9B5074AF6A21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CD22C08-D744-4982-9868-1C090CA954E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CD22C08-D744-4982-9868-1C090CA954E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CD22C08-D744-4982-9868-1C090CA954E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CD22C08-D744-4982-9868-1C090CA954E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59055FB8-E4C7-44C4-A559-0C467F1EAD64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59055FB8-E4C7-44C4-A559-0C467F1EAD64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59055FB8-E4C7-44C4-A559-0C467F1EAD64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59055FB8-E4C7-44C4-A559-0C467F1EAD64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{061E12BA-A346-401D-96B3-278B8E5BB173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{061E12BA-A346-401D-96B3-278B8E5BB173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{061E12BA-A346-401D-96B3-278B8E5BB173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{061E12BA-A346-401D-96B3-278B8E5BB173}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65AA6EED-7031-4815-90D9-CE4046A302B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65AA6EED-7031-4815-90D9-CE4046A302B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65AA6EED-7031-4815-90D9-CE4046A302B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65AA6EED-7031-4815-90D9-CE4046A302B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F251E7E-4779-4682-B638-4E673DF5823D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F251E7E-4779-4682-B638-4E673DF5823D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F251E7E-4779-4682-B638-4E673DF5823D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F251E7E-4779-4682-B638-4E673DF5823D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADD684E5-F29F-4658-BAC8-6334DE94516A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD684E5-F29F-4658-BAC8-6334DE94516A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADD684E5-F29F-4658-BAC8-6334DE94516A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADD684E5-F29F-4658-BAC8-6334DE94516A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CF562B0-DA9F-43B1-8BA6-9B5074AF6A21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CF562B0-DA9F-43B1-8BA6-9B5074AF6A21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CF562B0-DA9F-43B1-8BA6-9B5074AF6A21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CF562B0-DA9F-43B1-8BA6-9B5074AF6A21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3CD22C08-D744-4982-9868-1C090CA954E8} = {EE57727A-83BF-4DCD-B8AB-DB71BC99969B}
+		{59055FB8-E4C7-44C4-A559-0C467F1EAD64} = {CF136C0F-4424-4DA0-AB43-334555874822}
+		{061E12BA-A346-401D-96B3-278B8E5BB173} = {527C588A-8C35-4A6B-AF8B-111EB51302F1}
+		{65AA6EED-7031-4815-90D9-CE4046A302B7} = {527C588A-8C35-4A6B-AF8B-111EB51302F1}
+		{6F251E7E-4779-4682-B638-4E673DF5823D} = {527C588A-8C35-4A6B-AF8B-111EB51302F1}
+		{ADD684E5-F29F-4658-BAC8-6334DE94516A} = {750E20CF-1FA0-4B35-8889-14E960B9BA13}
+		{2CF562B0-DA9F-43B1-8BA6-9B5074AF6A21} = {265DEE49-1F16-4CD4-A75F-36FFDE2619B5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAFB1D60-3C82-4EBB-916E-D0A111DFBEDC}
+	EndGlobalSection
+EndGlobal
