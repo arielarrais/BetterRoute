@@ -1,0 +1,22 @@
+USE [BetterRoute]
+GO
+
+/****** Object:  Table [dbo].[Route]    Script Date: 7/26/2022 12:58:40 AM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[Route](
+	[Id] [int] IDENTITY(1,1) NOT NULL,
+	[Origin] [char](3) NULL,
+	[Destiny] [char](3) NULL,
+	[Value] [decimal](18, 2) NULL,
+ CONSTRAINT [PK_Route] PRIMARY KEY CLUSTERED 
+(
+	[Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
